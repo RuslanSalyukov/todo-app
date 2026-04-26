@@ -14,4 +14,4 @@
 - SCSS,
 - JS
 
-[Смотреть демо](https://RuslanSalyukov.github.io/todo-app/)
+[Смотреть демо](https://RuslanSalyukov007.github.io/todo-app/)
